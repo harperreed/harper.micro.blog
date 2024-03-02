@@ -1,0 +1,148 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "harper reed",
+	"icon": "https://micro.blog/harper/avatar.jpg",
+	"home_page_url": "https://harper.micro.blog/",
+	"feed_url": "https://harper.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://harper.micro.blog/2024/03/01/i-talked-to.html",
+				
+				"content_html": "<p>I talked to Visionect folks about my epaper life</p>\n<p><a href=\"https://www.visionect.com/blog/harper-reed-and-visionect/\">www.visionect.com/blog/harp&hellip;</a></p>\n",
+				"content_text": "I talked to Visionect folks about my epaper life\n\n[www.visionect.com/blog/harp...](https://www.visionect.com/blog/harper-reed-and-visionect/)\n",
+				"date_published": "2024-03-01T22:32:35-06:00",
+				"url": "https://harper.micro.blog/2024/03/01/i-talked-to.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/02/05/arc-search-is.html",
+				
+				"content_html": "<p>Arc search is pretty cool. Kind of a perplexity killer in many ways. Wild.</p>\n",
+				"content_text": "Arc search is pretty cool. Kind of a perplexity killer in many ways. Wild. \n",
+				"date_published": "2024-02-05T12:30:42-06:00",
+				"url": "https://harper.micro.blog/2024/02/05/arc-search-is.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/02/03/i-am-wearing.html",
+				
+				"content_html": "<p>I am wearing platform shoes in hmart . AMA</p>\n",
+				"content_text": "I am wearing platform shoes in hmart . AMA\n",
+				"date_published": "2024-02-03T17:13:02-06:00",
+				"url": "https://harper.micro.blog/2024/02/03/i-am-wearing.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/02/02/i-spent-a.html",
+				"title": "I spent a bit of time in SF recently and saw some wonderful friends",
+				"content_html": "<h2 id=\"randeep\">Randeep!</h2>\n<!-- raw HTML omitted -->\n<h2 id=\"jeff\">Jeff!</h2>\n<!-- raw HTML omitted -->\n<h2 id=\"sam\">Sam!</h2>\n<!-- raw HTML omitted -->\n<h2 id=\"tom\">Tom!</h2>\n<!-- raw HTML omitted -->\n<h2 id=\"me\">Me!</h2>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n\n## Randeep!\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://harper.micro.blog/uploads/2024/3194bbc3-be77-4ca7-b844-4841a5bf288f-1-201-a.jpeg\" alt=\"\" title=\"3194BBC3-BE77-4CA7-B844-4841A5BF288F_1_201_a.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n\n\n## Jeff!\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://harper.micro.blog/uploads/2024/9d1353c6-85b6-433e-978a-953a802409cf-1-201-a.jpeg\" alt=\"\" title=\"9D1353C6-85B6-433E-978A-953A802409CF_1_201_a.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n## Sam!\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://harper.micro.blog/uploads/2024/169a0bb9-c3c4-4734-93a9-6d4d7726f9b3-1-105-c.jpeg\" alt=\"\" title=\"169A0BB9-C3C4-4734-93A9-6D4D7726F9B3_1_105_c.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n## Tom!\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://harper.micro.blog/uploads/2024/c3df1496-a1a4-48cd-9074-8428b9f667e2-1-105-c.jpeg\" alt=\"\" title=\"C3DF1496-A1A4-48CD-9074-8428B9F667E2_1_105_c.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n## Me!\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://harper.micro.blog/uploads/2024/96a7d6b1-593f-4c6f-bfba-84cca39b9f2b-1-105-c.jpeg\" alt=\"\" title=\"96A7D6B1-593F-4C6F-BFBA-84CCA39B9F2B_1_105_c.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2024-02-02T20:05:04-06:00",
+				"url": "https://harper.micro.blog/2024/02/02/i-spent-a.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/31/was-wonderful-to.html",
+				
+				"content_html": "<p>Was wonderful to hang with Ben Huh today in rainy San Francisco</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Was wonderful to hang with Ben Huh today in rainy San Francisco \n\n<img src=\"uploads/2024/cef78236fc5843da9357f2eb88155084.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-31T21:49:19-06:00",
+				"url": "https://harper.micro.blog/2024/01/31/was-wonderful-to.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/30/bye-palo-alto.html",
+				
+				"content_html": "<p>Bye Palo Alto. More time next time.</p>\n",
+				"content_text": "Bye Palo Alto. More time next time. \n",
+				"date_published": "2024-01-30T10:55:51-06:00",
+				"url": "https://harper.micro.blog/2024/01/30/bye-palo-alto.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/28/airports-are-so.html",
+				
+				"content_html": "<p>Airports are so weird.</p>\n<ul>\n<li>TSA dude busting me for having chapstick in my pocket</li>\n<li>everyone is a noob</li>\n<li>nobody knows how anything works</li>\n<li>people in lounges having serious confidential conversations out loud.</li>\n<li>planes</li>\n</ul>\n",
+				"content_text": "Airports are so weird. \n\n- TSA dude busting me for having chapstick in my pocket\n- everyone is a noob\n- nobody knows how anything works\n- people in lounges having serious confidential conversations out loud. \n- planes \n",
+				"date_published": "2024-01-28T10:28:52-06:00",
+				"url": "https://harper.micro.blog/2024/01/28/airports-are-so.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/27/what-backpack-do.html",
+				
+				"content_html": "<p>what backpack do y&rsquo;all use?</p>\n",
+				"content_text": "what backpack do y'all use?\n",
+				"date_published": "2024-01-27T20:06:41-06:00",
+				"url": "https://harper.micro.blog/2024/01/27/what-backpack-do.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/26/the-spotify-daylist.html",
+				
+				"content_html": "<p>the spotify &ldquo;daylist&rdquo; thing is pretty cool</p>\n",
+				"content_text": "the spotify \"daylist\" thing is pretty cool\n",
+				"date_published": "2024-01-26T16:39:21-06:00",
+				"url": "https://harper.micro.blog/2024/01/26/the-spotify-daylist.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/21/used-osxphotos-to.html",
+				
+				"content_html": "<p>Used osxphotos to help find some pleasant shots</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Used osxphotos to help find some pleasant shots \n\n<img src=\"uploads/2024/ef20717f2ac94317852ceafd2334f9f7.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/3cd375c9ac3a480eadbd025e39165133.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"uploads/2024/d6505301572847588e971f24978c27f8.jpg\" width=\"398\" height=\"600\" alt=\"\"><img src=\"uploads/2024/a48f6eacdf674dd480d43b3525d6ec98.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2024-01-21T23:27:14-06:00",
+				"url": "https://harper.micro.blog/2024/01/21/used-osxphotos-to.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/16/hxlt.html",
+				
+				"content_html": "<p>HXLT</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "HXLT\n\n<img src=\"uploads/2024/cd2e6ec479df4a5e8656e79dd1664156.jpg\" width=\"600\" height=\"600\" alt=\"Hxlt playing \">\n",
+				"date_published": "2024-01-16T18:43:56-06:00",
+				"url": "https://harper.micro.blog/2024/01/16/hxlt.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/15/winter-magic-time.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Winter Magic Time.</p>\n",
+				"content_text": "<img src=\"uploads/2024/69ec23d7-148a-4b98-8bf7-f48fd19d388f-1-105-c.jpeg\" alt=\"\" title=\"69EC23D7-148A-4B98-8BF7-F48FD19D388F_1_105_c.jpeg\" border=\"0\" width=\"886\" height=\"886\" />\n\nWinter Magic Time. \n",
+				"date_published": "2024-01-15T20:42:00-06:00",
+				"url": "https://harper.micro.blog/2024/01/15/winter-magic-time.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/15/my-good-friend.html",
+				
+				"content_html": "<p>My good friend DJ</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My good friend DJ\n\n<img src=\"uploads/2024/86dff8bf1a4740299b8470c9305dca23.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"date_published": "2024-01-15T09:13:37-06:00",
+				"url": "https://harper.micro.blog/2024/01/15/my-good-friend.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/14/i-am-going.html",
+				
+				"content_html": "<p>I am going to to try and post more photos.</p>\n",
+				"content_text": "I am going to to try and post more photos. \n",
+				"date_published": "2024-01-14T23:47:20-06:00",
+				"url": "https://harper.micro.blog/2024/01/14/i-am-going.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/14/went-to-japan.html",
+				
+				"content_html": "<p>Went to Japan in the fall. Was wonderful.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Went to Japan in the fall. Was wonderful. \n\n<img src=\"uploads/2024/9f50030120204717ac6f4c773152351d.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/734d66e6f3364eb3ac78a8b154b18f5c.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/c9266eb7b14f4113a6c59f93689b6f24.jpg\" width=\"600\" height=\"398\" alt=\"\"><img src=\"uploads/2024/2c810bca845948f9b29674f795378171.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/60dc7431f8be45f4a2f91d7da8d9ba37.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/de89afc8f6e34fd1ac38d6f68e1b90ee.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/852d554db6f747c799655894efee9e80.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-14T22:06:31-06:00",
+				"url": "https://harper.micro.blog/2024/01/14/went-to-japan.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/14/hot-air-balloon.html",
+				
+				"content_html": "<p>Hot air balloon. Dusk in northern Colorado a few weeks ago</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hot air balloon. Dusk in northern Colorado a few weeks ago\n\n<img src=\"uploads/2024/d4c3837759.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-14T21:51:03-06:00",
+				"url": "https://harper.micro.blog/2024/01/14/hot-air-balloon.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/01/14/i-spent-a.html",
+				
+				"content_html": "<p>I spent a bit of time traveling the last few weeks. SF, Chicago, Colorado. Here are 4 photos to capture these spots.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I spent a bit of time traveling the last few weeks. SF, Chicago, Colorado. Here are 4 photos to capture these spots. \n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/363741c8c2.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/7f3cbd6ab6.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/c6d1348842.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-14T21:37:18-06:00",
+				"url": "https://harper.micro.blog/2024/01/14/i-spent-a.html"
+			}
+	]
+}
