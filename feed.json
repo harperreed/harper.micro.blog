@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/03/11/the-other-day.html",
+				
+				"content_html": "<p>The other day my buddy Kanno hit me up with a snippet that then ballooned into a full blown hack.</p>\n<p>How to generate commit messages with an LLM.</p>\n<p>I wrote about it here:</p>\n<p><a href=\"https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/\">harper.blog/2024/03/1&hellip;</a></p>\n",
+				"content_text": "The other day my buddy Kanno hit me up with a snippet that then ballooned into a full blown hack.\n\nHow to generate commit messages with an LLM. \n\nI wrote about it here: \n\n[harper.blog/2024/03/1...](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)\n",
+				"date_published": "2024-03-11T21:49:15-06:00",
+				"url": "https://harper.micro.blog/2024/03/11/the-other-day.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/03/01/i-talked-to.html",
 				
 				"content_html": "<p>I talked to Visionect folks about my epaper life</p>\n<p><a href=\"https://www.visionect.com/blog/harper-reed-and-visionect/\">www.visionect.com/blog/harp&hellip;</a></p>\n",
