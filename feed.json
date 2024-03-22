@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/03/22/listen-to-nina.html",
+				
+				"content_html": "<p>Listen to Nina Simone tonight</p>\n",
+				"content_text": "Listen to Nina Simone tonight\n",
+				"date_published": "2024-03-22T18:24:37-05:00",
+				"url": "https://harper.micro.blog/2024/03/22/listen-to-nina.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/03/18/a-few-friends.html",
+				
+				"content_html": "<p>A few friends recently bought Leica cameras so I wrote some tips for them. obviously YMMV but check it out:</p>\n<p><a href=\"https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/\">harper.blog/2024/03/1&hellip;</a></p>\n",
+				"content_text": "A few friends recently bought Leica cameras so I wrote some tips for them. obviously YMMV but check it out: \n\n[harper.blog/2024/03/1...](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)\n",
+				"date_published": "2024-03-18T09:15:29-05:00",
+				"url": "https://harper.micro.blog/2024/03/18/a-few-friends.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/03/16/i-should-probably.html",
 				
 				"content_html": "<p>I should probably reign in whatever prompt i have generating my commit messages</p>\n<!-- raw HTML omitted -->\n",
