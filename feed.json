@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/06/22/proof-of-life.html",
+				
+				"content_html": "<p>Proof of life.</p>\n<p>It’s humid af in Japan atm. Rainy season is here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Proof of life. \n\nIt’s humid af in Japan atm. Rainy season is here.\n\n<img src=\"uploads/2024/e33bd07ee9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-22T01:25:42-05:00",
+				"url": "https://harper.micro.blog/2024/06/22/proof-of-life.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/06/13/i-have-a.html",
 				
 				"content_html": "<p>i have a long flight soon. i need a new book.</p>\n<p>what do you recommend?</p>\n<p>(here is my recently read books: reading.lol)</p>\n",
