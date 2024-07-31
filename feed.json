@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/07/31/i-just-published.html",
+				
+				"content_html": "<p>I just published a blog post on my vcard contact management journey. it is a mess.</p>\n<p>Check it out here:\n<a href=\"https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/\">harper.blog/2024/07/3&hellip;</a></p>\n",
+				"content_text": "I just published a blog post on my vcard contact management journey. it is a mess. \r\n\r\nCheck it out here:\r\n[harper.blog/2024/07/3...](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)\n",
+				"date_published": "2024-07-31T14:15:26-05:00",
+				"url": "https://harper.micro.blog/2024/07/31/i-just-published.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/07/18/i-got-lil.html",
 				
 				"content_html": "<p>I got lil camera and it has been fun to carry around</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
