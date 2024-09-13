@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/09/13/sometimes-i-love.html",
+				
+				"content_html": "<p>Sometimes I love hugo. sometimes i do not like hugo. But it works really well. I do wish there was a way to integrate it with the various indie protocols easily.</p>\n",
+				"content_text": "Sometimes I love hugo. sometimes i do not like hugo. But it works really well. I do wish there was a way to integrate it with the various indie protocols easily. \n",
+				"date_published": "2024-09-13T15:06:00-05:00",
+				"url": "https://harper.micro.blog/2024/09/13/sometimes-i-love.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/11/edmar-world.html",
+				
+				"content_html": "<p>Edmar world.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Edmar world. \n\n<img src=\"uploads/2024/8d053840dbb74e1f8a2470d1907b1d28.jpg\" width=\"600\" height=\"480\" alt=\"\">\n",
+				"date_published": "2024-09-11T14:27:14-05:00",
+				"url": "https://harper.micro.blog/2024/09/11/edmar-world.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/11/mark-hayward.html",
+				
+				"content_html": "<p>Mark Hayward!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mark Hayward!\n\n<img src=\"uploads/2024/5e5bf4461fb142efb0993253b54f41de.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-11T07:54:12-05:00",
+				"url": "https://harper.micro.blog/2024/09/11/mark-hayward.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/10/got-to-hang.html",
+				
+				"content_html": "<p>Got to hang with some favorite peoples: Matt and Gauri.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Got to hang with some favorite peoples: Matt and Gauri.\n\n<img src=\"uploads/2024/2108a3b837f84910bd92adb99e334fe5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd4837b7d00e46bea07fbd0ef62a3050.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-10T17:59:11-05:00",
+				"url": "https://harper.micro.blog/2024/09/10/got-to-hang.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/10/it-me-fast.html",
+				
+				"content_html": "<p>It me. Fast tho</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It me. Fast tho \n\n<img src=\"uploads/2024/16dbbaef8e494c46ad8e8624a739fada.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-10T17:58:19-05:00",
+				"url": "https://harper.micro.blog/2024/09/10/it-me-fast.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/09/the-s-in.html",
+				
+				"content_html": "<p>“the S in AI stands for security”</p>\n",
+				"content_text": "“the S in AI stands for security”\n",
+				"date_published": "2024-09-09T07:54:08-05:00",
+				"url": "https://harper.micro.blog/2024/09/09/the-s-in.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/08/took-this-photo.html",
+				
+				"content_html": "<p>Took this photo last year. Really love the perspective and colors.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Took this photo last year. Really love the perspective and colors. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/16eb64e5f1f1402aa64e5ac847a096b7.jpg\" width=\"399\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-08T10:59:42-05:00",
+				"url": "https://harper.micro.blog/2024/09/08/took-this-photo.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/09/07/i-think-i.html",
 				
 				"content_html": "<p>i think i have a simple way to post my &ldquo;notes&rdquo; from micro.blog to my hugo blog. all it takes is a simple lil github action&hellip;</p>\n<p>now to figure out how to style these so called notes</p>\n",
@@ -18,7 +74,7 @@
 				"id": "http://harper.micro.blog/2024/09/01/america.html",
 				
 				"content_html": "<p>America</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "America \n\n<img src=\"uploads/2024/b1d002c2b0a645bb91ff90f32d7ac7fb.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "America \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/b1d002c2b0a645bb91ff90f32d7ac7fb.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-01T20:11:47-05:00",
 				"url": "https://harper.micro.blog/2024/09/01/america.html"
 			},
@@ -26,7 +82,7 @@
 				"id": "http://harper.micro.blog/2024/08/21/211145.html",
 				
 				"content_html": "<p>DNC Day 1</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DNC Day 1\n\n<img src=\"uploads/2024/461e4776b8e241ab9aaa4dea63f47fc1.jpg\" width=\"600\" height=\"480\" alt=\"\"><img src=\"uploads/2024/fdba1a8dd0594086a161c3c20fa6353b.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/77da671d1ccd4c45b18957961a2dccf5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/59ba03a3fb2a495c9e7e73a9b7f83cd4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "DNC Day 1\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/461e4776b8e241ab9aaa4dea63f47fc1.jpg\" width=\"600\" height=\"480\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/fdba1a8dd0594086a161c3c20fa6353b.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/77da671d1ccd4c45b18957961a2dccf5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/59ba03a3fb2a495c9e7e73a9b7f83cd4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-21T21:11:45-05:00",
 				"url": "https://harper.micro.blog/2024/08/21/211145.html"
 			},
@@ -34,7 +90,7 @@
 				"id": "http://harper.micro.blog/2024/08/21/211118.html",
 				
 				"content_html": "<p>DNC Day 2</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DNC Day 2\n\n<img src=\"uploads/2024/081a0d09674b4ee78b45248a0789cbaf.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/30729653ebee4707b233bd61d8ec4fb1.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e118150907d54992904d741bec4127d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "DNC Day 2\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/081a0d09674b4ee78b45248a0789cbaf.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/30729653ebee4707b233bd61d8ec4fb1.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/e118150907d54992904d741bec4127d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-21T21:11:18-05:00",
 				"url": "https://harper.micro.blog/2024/08/21/211118.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://harper.micro.blog/2024/08/21/dnc-day.html",
 				
 				"content_html": "<p>DNC Day 3</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DNC Day 3\n\n<img src=\"uploads/2024/4979b394c7c440c3b2321e37a2da9187.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d826f1fe1b9a449ab4ca75a854e759fc.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"uploads/2024/f696c08c5b1e41e38288261de5c4ceb7.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/8203bfdfbe0d42debd9db08d188a87e7.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "DNC Day 3\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/4979b394c7c440c3b2321e37a2da9187.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/d826f1fe1b9a449ab4ca75a854e759fc.jpg\" width=\"600\" height=\"599\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/f696c08c5b1e41e38288261de5c4ceb7.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/8203bfdfbe0d42debd9db08d188a87e7.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-08-21T21:10:44-05:00",
 				"url": "https://harper.micro.blog/2024/08/21/dnc-day.html"
 			},
