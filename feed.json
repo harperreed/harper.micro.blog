@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/09/18/jacques.html",
+				
+				"content_html": "<p>Jacques!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Jacques!\n\n<img src=\"uploads/2024/dde8bdb3dd8441f29d8e7faae9120563.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-18T17:33:34-05:00",
+				"url": "https://harper.micro.blog/2024/09/18/jacques.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/09/14/ran-into-and.html",
+				
+				"content_html": "<p>Ran into and old friend from the early 2000s. Ennis!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ran into and old friend from the early 2000s. Ennis!\n\n<img src=\"uploads/2024/91e658c37df444a3a205d8021478ff4c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-09-14T17:18:57-05:00",
+				"url": "https://harper.micro.blog/2024/09/14/ran-into-and.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/09/13/sometimes-i-love.html",
 				
 				"content_html": "<p>Sometimes I love hugo. sometimes i do not like hugo. But it works really well. I do wish there was a way to integrate it with the various indie protocols easily.</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://harper.micro.blog/2024/09/10/got-to-hang.html",
 				
 				"content_html": "<p>Got to hang with some favorite peoples: Matt and Gauri.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Got to hang with some favorite peoples: Matt and Gauri.\n\n<img src=\"uploads/2024/2108a3b837f84910bd92adb99e334fe5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dd4837b7d00e46bea07fbd0ef62a3050.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got to hang with some favorite peoples: Matt and Gauri.\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/2108a3b837f84910bd92adb99e334fe5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/dd4837b7d00e46bea07fbd0ef62a3050.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-10T17:59:11-05:00",
 				"url": "https://harper.micro.blog/2024/09/10/got-to-hang.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://harper.micro.blog/2024/09/10/it-me-fast.html",
 				
 				"content_html": "<p>It me. Fast tho</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It me. Fast tho \n\n<img src=\"uploads/2024/16dbbaef8e494c46ad8e8624a739fada.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "It me. Fast tho \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/16dbbaef8e494c46ad8e8624a739fada.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-10T17:58:19-05:00",
 				"url": "https://harper.micro.blog/2024/09/10/it-me-fast.html"
 			},
