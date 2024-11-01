@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/11/01/neil-and-mint.html",
+				
+				"content_html": "<p>Neil and Mint (flash)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Neil and Mint (flash)\n\n<img src=\"uploads/2024/5cc9e4dafb0c44798dfbf0069fd40cdf.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/57c176f76d9440aa8f62582408c31405.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-01T18:35:40-05:00",
+				"url": "https://harper.micro.blog/2024/11/01/neil-and-mint.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/10/29/fall-shots-emj.html",
+				
+				"content_html": "<p>Fall shots. EMJ, Ratner in his natural mode, and me as the holy mountain guy</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Fall shots. EMJ, Ratner in his natural mode, and me as the holy mountain guy \n\n<img src=\"uploads/2024/6d1b2af24e884aaabec24fdbd6f27682.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/63e1bef78964484abc104af0f3242c12.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/79f6435faf524eceaee5216de9d1d78b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-29T18:53:47-05:00",
+				"url": "https://harper.micro.blog/2024/10/29/fall-shots-emj.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/10/28/the-franks-red.html",
+				
+				"content_html": "<p>the frank&rsquo;s red hot flavored gold fish are perfect</p>\n",
+				"content_text": "the frank's red hot flavored gold fish are perfect\n",
+				"date_published": "2024-10-28T17:23:50-05:00",
+				"url": "https://harper.micro.blog/2024/10/28/the-franks-red.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/10/24/i-am-infatuated.html",
 				
 				"content_html": "<p>I am infatuated with UV</p>\n",
@@ -34,7 +58,7 @@
 				"id": "http://harper.micro.blog/2024/10/21/i-love-this.html",
 				
 				"content_html": "<p>I love this part of warm weather Chicago</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I love this part of warm weather Chicago \n\n<img src=\"uploads/2024/87c909a5976f4a1ca11ca4d0588f5ff4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I love this part of warm weather Chicago \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/87c909a5976f4a1ca11ca4d0588f5ff4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-21T09:08:46-05:00",
 				"url": "https://harper.micro.blog/2024/10/21/i-love-this.html"
 			},
