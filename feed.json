@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/11/07/here-is-a.html",
+				
+				"content_html": "<p>Here is a reading list for you to enjoy while the world burns down around us.</p>\n<p><a href=\"https://harper.blog/2024/11/06/again/\">harper.blog/2024/11/0&hellip;</a></p>\n",
+				"content_text": "Here is a reading list for you to enjoy while the world burns down around us. \n\n[harper.blog/2024/11/0...](https://harper.blog/2024/11/06/again/)\n",
+				"date_published": "2024-11-07T00:04:33-05:00",
+				"url": "https://harper.micro.blog/2024/11/07/here-is-a.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/05/voted.html",
+				
+				"content_html": "<p>Voted!! 🗳️😬🇺🇸</p>\n",
+				"content_text": "Voted!! 🗳️😬🇺🇸\n",
+				"date_published": "2024-11-05T10:07:16-05:00",
+				"url": "https://harper.micro.blog/2024/11/05/voted.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/04/nostalgia-invents-a.html",
+				
+				"content_html": "<p>&ldquo;nostalgia invents a fake past we can’t learn from.&rdquo;</p>\n<p><a href=\"https://kalebhorton.ghost.io/memory-nostalgia/\">kalebhorton.ghost.io/memory-no&hellip;</a></p>\n",
+				"content_text": "\"nostalgia invents a fake past we can’t learn from.\"\n\n[kalebhorton.ghost.io/memory-no...](https://kalebhorton.ghost.io/memory-nostalgia/)\n",
+				"date_published": "2024-11-04T22:49:17-05:00",
+				"url": "https://harper.micro.blog/2024/11/04/nostalgia-invents-a.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/04/what-are-your.html",
+				
+				"content_html": "<p>What are your favorite personal blog designs?</p>\n<p>Not looking for themes. I need some inspo to fix mine.</p>\n",
+				"content_text": "What are your favorite personal blog designs? \n\nNot looking for themes. I need some inspo to fix mine. \n",
+				"date_published": "2024-11-04T19:35:55-05:00",
+				"url": "https://harper.micro.blog/2024/11/04/what-are-your.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/04/this-squirrel-was.html",
+				
+				"content_html": "<p>This squirrel was mean mugging me</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This squirrel was mean mugging me \n\n<img src=\"uploads/2024/ec9630e5308c463f8013e8c81ad3acfb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-04T17:05:32-05:00",
+				"url": "https://harper.micro.blog/2024/11/04/this-squirrel-was.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/04/a-quick-lunch.html",
+				
+				"content_html": "<p>A quick lunch before Election Day madness. Dylan, Eryan, Dave, and Jacqui</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A quick lunch before Election Day madness. Dylan, Eryan, Dave, and Jacqui \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/bd0533f06eff40ec92b04e248d810c3b.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/96f70fb140964d7b867c5dc2b2c1b6ce.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/cf181733323440c5b1eda0510a946f4f.jpg\" width=\"600\" height=\"400\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/09e6fb01f40c40b8a54c506119db4cbc.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-11-04T17:01:24-05:00",
+				"url": "https://harper.micro.blog/2024/11/04/a-quick-lunch.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/02/had-a-chance.html",
+				
+				"content_html": "<p>Had a chance to go visit the one and only Ramen Lord.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had a chance to go visit the one and only Ramen Lord. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/7492e4ee3ce14adb8af7be213740ee84.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-02T18:56:31-05:00",
+				"url": "https://harper.micro.blog/2024/11/02/had-a-chance.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/11/01/neil-and-mint.html",
 				
 				"content_html": "<p>Neil and Mint (flash)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Neil and Mint (flash)\n\n<img src=\"uploads/2024/5cc9e4dafb0c44798dfbf0069fd40cdf.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/57c176f76d9440aa8f62582408c31405.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Neil and Mint (flash)\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/5cc9e4dafb0c44798dfbf0069fd40cdf.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/57c176f76d9440aa8f62582408c31405.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-01T18:35:40-05:00",
 				"url": "https://harper.micro.blog/2024/11/01/neil-and-mint.html"
 			},
@@ -18,7 +74,7 @@
 				"id": "http://harper.micro.blog/2024/10/29/fall-shots-emj.html",
 				
 				"content_html": "<p>Fall shots. EMJ, Ratner in his natural mode, and me as the holy mountain guy</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fall shots. EMJ, Ratner in his natural mode, and me as the holy mountain guy \n\n<img src=\"uploads/2024/6d1b2af24e884aaabec24fdbd6f27682.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/63e1bef78964484abc104af0f3242c12.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/79f6435faf524eceaee5216de9d1d78b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Fall shots. EMJ, Ratner in his natural mode, and me as the holy mountain guy \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/6d1b2af24e884aaabec24fdbd6f27682.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/63e1bef78964484abc104af0f3242c12.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/79f6435faf524eceaee5216de9d1d78b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-29T18:53:47-05:00",
 				"url": "https://harper.micro.blog/2024/10/29/fall-shots-emj.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://harper.micro.blog/2024/10/23/are-we-not.html",
 				
 				"content_html": "<p>Are we not men?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Are we not men? \n\n<img src=\"uploads/2024/becbff4e963e4a67b1dc437a4ab07c2a.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Are we not men? \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/becbff4e963e4a67b1dc437a4ab07c2a.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-23T18:26:45-05:00",
 				"url": "https://harper.micro.blog/2024/10/23/are-we-not.html"
 			},
