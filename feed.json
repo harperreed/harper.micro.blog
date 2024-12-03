@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2024/12/02/i-really-should.html",
+				
+				"content_html": "<p>I really should do my email! It has been about 200 years since i read or replied to email.</p>\n",
+				"content_text": "I really should do my email! It has been about 200 years since i read or replied to email. \n",
+				"date_published": "2024-12-02T21:09:25-06:00",
+				"url": "https://harper.micro.blog/2024/12/02/i-really-should.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2024/11/28/happy-thanksgiving.html",
+				
+				"content_html": "<p>H̵a̵p̵p̸y̴ ̶t̸h̶a̸n̷k̷s̶g̸i̸v̶i̶n̴g̸</p>\n",
+				"content_text": "H̵a̵p̵p̸y̴ ̶t̸h̶a̸n̷k̷s̶g̸i̸v̶i̶n̴g̸\n",
+				"date_published": "2024-11-28T07:49:45-06:00",
+				"url": "https://harper.micro.blog/2024/11/28/happy-thanksgiving.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2024/11/27/a-nice-pre.html",
 				
 				"content_html": "<p>A nice pre holiday lunch with Sam</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://harper.micro.blog/2024/11/21/first-snow-of.html",
 				
 				"content_html": "<p>First snow of the season. Walking home in snow rain. Slush life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First snow of the season. Walking home in snow rain. Slush life \n\n<img src=\"uploads/2024/d7d21c3d66434d2394e60c7d637a1744.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "First snow of the season. Walking home in snow rain. Slush life \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/d7d21c3d66434d2394e60c7d637a1744.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-21T21:36:00-06:00",
 				"url": "https://harper.micro.blog/2024/11/21/first-snow-of.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://harper.micro.blog/2024/11/21/working-late.html",
 				
 				"content_html": "<p>Working late.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Working late. \n\n<img src=\"uploads/2024/3f6381570ff0463faaa37608f85aadaa.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e7c4cfdd045e4a0281d016605b8301da.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Working late. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/3f6381570ff0463faaa37608f85aadaa.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2024/e7c4cfdd045e4a0281d016605b8301da.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-11-21T21:35:07-06:00",
 				"url": "https://harper.micro.blog/2024/11/21/working-late.html"
 			},
