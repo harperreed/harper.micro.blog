@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2025/01/14/i-have-no-idea-how.html",
+				
+				"content_html": "<p>i have no idea how to &ldquo;catch up on the news&rdquo; and then when i do dip a bit more into it i am like &ldquo;fuck this&rdquo; and run away.</p>\n<p>maybe related: i have been playing a bit of animal crossing again.</p>\n",
+				"content_text": "i have no idea how to \"catch up on the news\" and then when i do dip a bit more into it i am like \"fuck this\" and run away. \r\n\r\nmaybe related: i have been playing a bit of animal crossing again. \n",
+				"date_published": "2025-01-14T23:35:22-06:00",
+				"url": "https://harper.micro.blog/2025/01/14/i-have-no-idea-how.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2025/01/08/i-am-hilariously-impressed-with.html",
 				
 				"content_html": "<p>I am hilariously impressed with Nintendo Music streaming service. Highly recommend.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Nintendo_Music\">en.wikipedia.org/wiki/Nint&hellip;</a></p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://harper.micro.blog/2024/12/30/maximum-overdrive.html",
 				
 				"content_html": "<p>Maximum overdrive</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Maximum overdrive \n\n<img src=\"uploads/2024/d956789eb47e47bdb11356a1a39db2d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Maximum overdrive \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2024/d956789eb47e47bdb11356a1a39db2d6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-12-30T22:29:25-06:00",
 				"url": "https://harper.micro.blog/2024/12/30/maximum-overdrive.html"
 			},
