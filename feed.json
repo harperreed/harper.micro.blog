@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2025/04/04/we-are-getting-swole-this.html",
+				
+				"content_html": "<p>We are getting swole this summer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We are getting swole this summer. \n\n<img src=\"uploads/2025/a8dc5bc22dbc484d9a33b474cadee8e7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-04T12:52:39-06:00",
+				"url": "https://harper.micro.blog/2025/04/04/we-are-getting-swole-this.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2025/03/08/hung-with-some-cool-cats.html",
+				
+				"content_html": "<p>Hung with some cool cats at Marz.</p>\n<p>We gotta get edmar to get some big ass altecs in there.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Hung with some cool cats at Marz. \n\nWe gotta get edmar to get some big ass altecs in there. \n\n<img src=\"uploads/2025/3ef31945f2784eacaf89b14118eda94b.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/80af7b2fa881416cba1b0f6be88fc0db.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-08T21:35:37-06:00",
+				"url": "https://harper.micro.blog/2025/03/08/hung-with-some-cool-cats.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2025/03/08/was-gregs-to-hang-with.html",
 				
-				"content_html": "<p>Was Greg’s to hang with my friend Nick the other night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Was Greg’s to hang with my friend Nick the other night \n\n<img src=\"uploads/2025/709848e96fef456ea863d31ce6ce1540.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"content_html": "<p>Was great to hang with my friend Nick the other night</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Was great to hang with my friend Nick the other night \n\n<img src=\"uploads/2025/709848e96fef456ea863d31ce6ce1540.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
 				"date_published": "2025-03-08T21:32:31-06:00",
 				"url": "https://harper.micro.blog/2025/03/08/was-gregs-to-hang-with.html"
 			},
@@ -34,7 +50,7 @@
 				"id": "http://harper.micro.blog/2025/02/23/had-some-amazing-sushi-last.html",
 				
 				"content_html": "<p>Had some amazing sushi last night at Shoji. Chef Shoji san is always amazing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had some amazing sushi last night at Shoji. Chef Shoji san is always amazing. \n\n<img src=\"uploads/2025/3b40da0b4ba9464781c5d7fac2c8fede.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Had some amazing sushi last night at Shoji. Chef Shoji san is always amazing. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/3b40da0b4ba9464781c5d7fac2c8fede.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-23T13:24:26-06:00",
 				"url": "https://harper.micro.blog/2025/02/23/had-some-amazing-sushi-last.html"
 			},
