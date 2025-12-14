@@ -1,11 +1,35 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Harper's Notes",
-	"icon": "https://www.gravatar.com/avatar/b7a96b3d5b5cfed5228396104cd67b38?s=96&d=https%3A%2F%2Fmicro.blog%2Fimages%2Fblank_avatar.png",
+	"icon": "https://micro.blog/harper/avatar.jpg",
 	"home_page_url": "https://harper.micro.blog/",
 	"feed_url": "https://harper.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://harper.micro.blog/2025/12/14/the-balloon-museum-was-very.html",
+				
+				"content_html": "<p>The balloon museum was very interesting</p>\n<img src=\"uploads/2025/e48602148ba1495b9e4db02e5d0cd48e.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "The balloon museum was very interesting \n\n<img src=\"uploads/2025/e48602148ba1495b9e4db02e5d0cd48e.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2025-12-14T08:44:20-06:00",
+				"url": "https://harper.micro.blog/2025/12/14/the-balloon-museum-was-very.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2025/12/06/my-friend-morgan-worked-out.html",
+				
+				"content_html": "<p>My friend Morgan worked out of my office this week. Was so nice to see her.</p>\n<img src=\"uploads/2025/6f9daa61195449d689ec633b3528f604.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "My friend Morgan worked out of my office this week. Was so nice to see her.  \n\n<img src=\"uploads/2025/6f9daa61195449d689ec633b3528f604.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-06T16:10:29-06:00",
+				"url": "https://harper.micro.blog/2025/12/06/my-friend-morgan-worked-out.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2025/12/06/today-i-got-on-the.html",
+				
+				"content_html": "<p>Today I got on the blueline, and the car I got on, apparently,  held a cohort of furries headed downtown.  Was very cool.</p>\n<p><img src=\"uploads/2025/5e134f96e96a4578b75bc21fbb7932c6.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/ec30e94ed6b24ce5b05891fb36f1c69a.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Today I got on the blueline, and the car I got on, apparently,  held a cohort of furries headed downtown.  Was very cool. \n\n<img src=\"uploads/2025/5e134f96e96a4578b75bc21fbb7932c6.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/ec30e94ed6b24ce5b05891fb36f1c69a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-06T16:09:56-06:00",
+				"url": "https://harper.micro.blog/2025/12/06/today-i-got-on-the.html"
+			},
 			{
 				"id": "http://harper.micro.blog/2025/11/27/happy-thanksgiving-everyone-i-appreciate.html",
 				
@@ -25,16 +49,16 @@
 			{
 				"id": "http://harper.micro.blog/2025/11/17/new-office-who-dis-swing.html",
 				
-				"content_html": "<p>New office. Who dis.</p>\n<p>Swing by!</p>\n<img src=\"uploads/2025/16be22e0113646fd97386873edc9310e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "New office. Who dis. \n\nSwing by! \n\n<img src=\"uploads/2025/16be22e0113646fd97386873edc9310e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>New office. Who dis.</p>\n<p>Swing by!</p>\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/16be22e0113646fd97386873edc9310e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "New office. Who dis. \n\nSwing by! \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/16be22e0113646fd97386873edc9310e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-11-17T22:18:03-06:00",
 				"url": "https://harper.micro.blog/2025/11/17/new-office-who-dis-swing.html"
 			},
 			{
 				"id": "http://harper.micro.blog/2025/11/13/health-is-wealth.html",
 				
-				"content_html": "<p>Health is wealth</p>\n<img src=\"uploads/2025/7991ec2b46c3494d978d6c4723ba0c5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
-				"content_text": "Health is wealth \n\n<img src=\"uploads/2025/7991ec2b46c3494d978d6c4723ba0c5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>Health is wealth</p>\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/7991ec2b46c3494d978d6c4723ba0c5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Health is wealth \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/7991ec2b46c3494d978d6c4723ba0c5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2025-11-13T14:39:20-06:00",
 				"url": "https://harper.micro.blog/2025/11/13/health-is-wealth.html"
 			},
@@ -49,8 +73,8 @@
 			{
 				"id": "http://harper.micro.blog/2025/11/07/working-winter-afternoon-light.html",
 				
-				"content_html": "<p>Working winter afternoon light.</p>\n<p><img src=\"uploads/2025/af90d18e736d482e9c6d06eb1509d31a.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/59545e84f64844afbb0c062aec8d29b5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/6aafc958460a4b27afb0d96e608e1b69.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/d85cec443335493f8c0402f31a740fbc.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Working winter afternoon light. \n\n<img src=\"uploads/2025/af90d18e736d482e9c6d06eb1509d31a.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/59545e84f64844afbb0c062aec8d29b5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/6aafc958460a4b27afb0d96e608e1b69.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/d85cec443335493f8c0402f31a740fbc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Working winter afternoon light.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2141/2025/af90d18e736d482e9c6d06eb1509d31a.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/59545e84f64844afbb0c062aec8d29b5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/6aafc958460a4b27afb0d96e608e1b69.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/d85cec443335493f8c0402f31a740fbc.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Working winter afternoon light. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/af90d18e736d482e9c6d06eb1509d31a.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/59545e84f64844afbb0c062aec8d29b5.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/6aafc958460a4b27afb0d96e608e1b69.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2025/d85cec443335493f8c0402f31a740fbc.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-11-07T22:12:55-06:00",
 				"url": "https://harper.micro.blog/2025/11/07/working-winter-afternoon-light.html"
 			},
@@ -1859,8 +1883,8 @@
 			{
 				"id": "http://harper.micro.blog/2019/06/27/a-quick-snap-from-hydrabad.html",
 				
-				"content_html": "<p>A quick snap from Hydrabad ~ 2019-06-27</p>\n<img src=\"uploads/2025/l1000008.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"content_text": "A quick snap from Hydrabad ~ 2019-06-27\n\n<img src=\"uploads/2025/l1000008.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>A quick snap from Hydrabad ~ 2019-06-27</p>\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/l1000008.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "A quick snap from Hydrabad ~ 2019-06-27\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/l1000008.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2019-06-27T12:30:00-06:00",
 				"url": "https://harper.micro.blog/2019/06/27/a-quick-snap-from-hydrabad.html"
 			}
