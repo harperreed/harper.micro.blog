@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2025/12/14/saw-the-armed-on-friday.html",
+				
+				"content_html": "<p>Saw The Armed on Friday.</p>\n<img src=\"uploads/2025/55a5683b93b24cd4a1fcfbc0bec51856.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Saw The Armed on Friday. \n\n<img src=\"uploads/2025/55a5683b93b24cd4a1fcfbc0bec51856.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-12-14T08:45:54-06:00",
+				"url": "https://harper.micro.blog/2025/12/14/saw-the-armed-on-friday.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2025/12/14/the-balloon-museum-was-very.html",
 				
 				"content_html": "<p>The balloon museum was very interesting</p>\n<img src=\"uploads/2025/e48602148ba1495b9e4db02e5d0cd48e.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
@@ -1887,6 +1895,15 @@
 				"content_text": "A quick snap from Hydrabad ~ 2019-06-27\n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/l1000008.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2019-06-27T12:30:00-06:00",
 				"url": "https://harper.micro.blog/2019/06/27/a-quick-snap-from-hydrabad.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2012/11/09/that-presidential-hug-vibes.html",
+				"title": "That presidential hug vibes",
+				"content_html": "<p>That presidential hug vibes</p>\n<img src=\"uploads/2025/2012-11-10-11.00.09.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "That presidential hug vibes\n\n<img src=\"uploads/2025/2012-11-10-11.00.09.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-11-09T18:00:00-06:00",
+				"url": "https://harper.micro.blog/2012/11/09/that-presidential-hug-vibes.html",
+				"tags": ["photos"]
 			}
 	]
 }
