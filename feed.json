@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2026/01/16/i-like-to-think-i.html",
+				
+				"content_html": "<p>I like to think I am ready for anything.</p>\n<img src=\"uploads/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I like to think I am ready for anything. \n\n<img src=\"uploads/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-16T08:56:50-06:00",
+				"url": "https://harper.micro.blog/2026/01/16/i-like-to-think-i.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2026/01/05/i-blogged-about-using-claude.html",
+				
+				"content_html": "<p>I blogged about using Claude Code on my phone</p>\n<p><a href=\"https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/\">harper.blog/2026/01/0&hellip;</a></p>\n",
+				"content_text": "I blogged about using Claude Code on my phone \n\n[harper.blog/2026/01/0...](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)\n",
+				"date_published": "2026-01-05T20:26:05-06:00",
+				"url": "https://harper.micro.blog/2026/01/05/i-blogged-about-using-claude.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2025/12/31/is-wild-watch-out.html",
 				
 				"content_html": "<p>2026 is wild. Watch out!</p>\n",
@@ -41,8 +57,8 @@
 			{
 				"id": "http://harper.micro.blog/2025/12/16/going-through-a-lil-cyberdeck.html",
 				
-				"content_html": "<p>Going through a lil cyberdeck era</p>\n<img src=\"uploads/2025/4d07274bcb3d444ba53ccad8613b1304.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "Going through a lil cyberdeck era \n\n<img src=\"uploads/2025/4d07274bcb3d444ba53ccad8613b1304.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Going through a lil cyberdeck era</p>\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/4d07274bcb3d444ba53ccad8613b1304.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Going through a lil cyberdeck era \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2025/4d07274bcb3d444ba53ccad8613b1304.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-12-16T22:04:55-06:00",
 				"url": "https://harper.micro.blog/2025/12/16/going-through-a-lil-cyberdeck.html"
 			},
