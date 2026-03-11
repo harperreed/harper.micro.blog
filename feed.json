@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2026/03/11/i-posted-a-fun-post.html",
+				
+				"content_html": "<p>I posted a fun post about how I made my transcripts into really neat knowledge graphs. Hope it is helpful</p>\n<p><a href=\"https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/\">harper.blog/2026/03/1&hellip;</a></p>\n",
+				"content_text": "I posted a fun post about how I made my transcripts into really neat knowledge graphs. Hope it is helpful \n\n[harper.blog/2026/03/1...](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)\n",
+				"date_published": "2026-03-11T17:48:23-05:00",
+				"url": "https://harper.micro.blog/2026/03/11/i-posted-a-fun-post.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2026/03/10/just-posted-about-dot-files.html",
 				
 				"content_html": "<p>just posted about dot files and attractors over at 2389.ai <a href=\"https://2389.ai/posts/the-dark-factory-is-a-dot-file/\">2389.ai/posts/the&hellip;</a></p>\n",
@@ -65,8 +73,8 @@
 			{
 				"id": "http://harper.micro.blog/2026/01/16/i-like-to-think-i.html",
 				
-				"content_html": "<p>I like to think I am ready for anything.</p>\n<img src=\"https://cdn.uploads.micro.blog/2141/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "I like to think I am ready for anything. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I like to think I am ready for anything.</p>\n<img src=\"uploads/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "I like to think I am ready for anything. \n\n<img src=\"uploads/2026/cd515eac6a8c4002892b4d5334aa8367.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-16T08:56:50-06:00",
 				"url": "https://harper.micro.blog/2026/01/16/i-like-to-think-i.html"
 			},
