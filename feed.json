@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2026/05/02/quite-a-change-of-locale.html",
+				
+				"content_html": "<p>Quite a change of locale. Also I wear hats now. Sports hats. But motorsports.</p>\n<img src=\"uploads/2026/e532ab0dd87e4903aec4974c78c53988.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Quite a change of locale. Also I wear hats now. Sports hats. But motorsports. \n\n<img src=\"uploads/2026/e532ab0dd87e4903aec4974c78c53988.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-02T14:46:45-05:00",
+				"url": "https://harper.micro.blog/2026/05/02/quite-a-change-of-locale.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2026/04/28/napalm-death-club-quattro-in.html",
+				
+				"content_html": "<p>Napalm Death @ Club Quattro in Shibuya</p>\n<p><img src=\"uploads/2026/1617c3c6c77f4c58b9f4be6c935c9507.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/f16cda9138ee4fcc8a2943218f3bc0c4.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/de48a64e9ba34cb191022535d36d80bd.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Napalm Death @ Club Quattro in Shibuya \n\n<img src=\"uploads/2026/1617c3c6c77f4c58b9f4be6c935c9507.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/f16cda9138ee4fcc8a2943218f3bc0c4.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/de48a64e9ba34cb191022535d36d80bd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-28T21:10:05-05:00",
+				"url": "https://harper.micro.blog/2026/04/28/napalm-death-club-quattro-in.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2026/04/28/merzbow-club-quattro-in-shibuya.html",
+				
+				"content_html": "<p>Merzbow @ club Quattro in Shibuya</p>\n<img src=\"uploads/2026/2f7a409c8b2b4ae78ef9809b377e27e8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Merzbow @ club Quattro in Shibuya \n\n<img src=\"uploads/2026/2f7a409c8b2b4ae78ef9809b377e27e8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-28T21:07:45-05:00",
+				"url": "https://harper.micro.blog/2026/04/28/merzbow-club-quattro-in-shibuya.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2026/04/28/growl-of-clown-club-quattro.html",
 				
 				"content_html": "<p>Growl of Clown @ Club Quattro in Shibuya</p>\n<img src=\"uploads/2026/619625af477d4e9a8e9df6eb58a154a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
