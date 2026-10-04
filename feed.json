@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://harper.micro.blog/2026/10/03/reed-boys-on-a-podcast.html",
+				
+				"content_html": "<p>Reed boys on a podcast.</p>\n<img src=\"uploads/2026/4f4a5609d7244aedb41d40410f349536.png\" width=\"600\" height=\"381\" alt=\"\">\n",
+				"content_text": "Reed boys on a podcast. \n\n<img src=\"uploads/2026/4f4a5609d7244aedb41d40410f349536.png\" width=\"600\" height=\"381\" alt=\"\">\n",
+				"date_published": "2026-10-03T22:55:40-05:00",
+				"url": "https://harper.micro.blog/2026/10/03/reed-boys-on-a-podcast.html"
+			},
+			{
+				"id": "http://harper.micro.blog/2026/10/03/christoph-and-tom-quick-sf.html",
+				
+				"content_html": "<p>Christoph and Tom! Quick SF trip</p>\n<p><img src=\"uploads/2026/4440830a1d0e41dd8ece8afc5759ce87.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/f746870b061b493fbe7553d889652926.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Christoph and Tom! Quick SF trip \n\n<img src=\"uploads/2026/4440830a1d0e41dd8ece8afc5759ce87.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/f746870b061b493fbe7553d889652926.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-03T22:54:59-05:00",
+				"url": "https://harper.micro.blog/2026/10/03/christoph-and-tom-quick-sf.html"
+			},
+			{
 				"id": "http://harper.micro.blog/2026/09/22/this-is-the-loudest-thing.html",
 				
 				"content_html": "<p>This is the loudest thing in the world. Also fun. And hilarious.</p>\n<p><img src=\"uploads/2026/f59bc53c0c044dd3bcc25cb25e93a87f.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/b54674807db44a18878e176530a45b05.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/4e2e546213ae438cb35fadb800197d81.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2026/d7801e3983d24bdfb1813ca99d860ce9.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
@@ -49,8 +65,8 @@
 			{
 				"id": "http://harper.micro.blog/2026/08/16/flying-feels-like-a-miracle.html",
 				
-				"content_html": "<p>Flying feels like a miracle.</p>\n<p><img src=\"uploads/2026/708b3fffb0dd4cb69504fc734bb57870.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/311ebe37bed94c37981654100b2e0a85.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Flying feels like a miracle. \n\n<img src=\"uploads/2026/708b3fffb0dd4cb69504fc734bb57870.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/311ebe37bed94c37981654100b2e0a85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Flying feels like a miracle.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/2141/2026/708b3fffb0dd4cb69504fc734bb57870.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2026/311ebe37bed94c37981654100b2e0a85.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Flying feels like a miracle. \n\n<img src=\"https://cdn.uploads.micro.blog/2141/2026/708b3fffb0dd4cb69504fc734bb57870.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/2141/2026/311ebe37bed94c37981654100b2e0a85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-08-16T20:07:46-05:00",
 				"url": "https://harper.micro.blog/2026/08/16/flying-feels-like-a-miracle.html"
 			},
